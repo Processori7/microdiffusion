@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+customtkinter
+matplotlib
+numpy
+scikit-learn
+pillow
+tqdm
+requests
+duckduckgo_search
